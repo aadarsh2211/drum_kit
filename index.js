@@ -51,7 +51,7 @@ function makeSound(key) {
       break;
 
     default:
-      alert("abe lodu lalit sahi button dba ");
+      alert("You Pressed wrong Button ");
 
   }
 }
